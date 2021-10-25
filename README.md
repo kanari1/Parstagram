@@ -36,4 +36,4 @@ Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/z1pyNSd.gif)
 
 # GIF 5: View last 20 posts 
-![](https://i.imgur.com/1OGxhgV.gif)
+![](https://i.imgur.com/gZpkqdc.gif)
