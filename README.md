@@ -25,15 +25,15 @@ Here's a walkthrough of implemented user stories:
 
 # PART 2
 
-# User can stay logged in across restarts
+# GIF 1: User can stay logged in across restarts
 ![](https://i.imgur.com/msJcz0o.gif)
 
-# User can log out 
+# GIF 2: User can log out 
 ![](https://i.imgur.com/7v5nkHA.gif)
 
-# User can view comments on a post 
+# GIF 3: User can view comments on a post, User can add a new comment
+![](https://i.imgur.com/q3uv37U.gif)
 
-# User can add a new comment
 
 # GIF 1: App icon and launch screen 
 ![](https://i.imgur.com/mYucKCh.gif)
